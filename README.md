@@ -1,3 +1,7 @@
+# Preview
+<img width="1113" height="628" alt="UPI Transaction Dashboard Preview" src="https://github.com/user-attachments/assets/732063b2-11f1-40bd-9561-1560d3e58b5d" />
+
+
 # 💳 UPI Transaction Dashboard
 
 An interactive **Power BI Dashboard** designed to analyze and visualize UPI (Unified Payments Interface) transactions across multiple dimensions, including banks, cities, payment methods, demographics, merchants, and transaction types.
